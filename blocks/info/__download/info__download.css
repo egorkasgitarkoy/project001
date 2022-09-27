@@ -1,0 +1,19 @@
+.info__download{
+    display: block;
+    margin-top: 40px;
+    background: none;
+    border: 2px solid #d9d9d9;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    padding: 10px 25px;
+    color: #fff;
+    transition-duration: 0.3s;
+    border-radius: 3px;
+}
+
+.info__download:hover{
+    background-color: #ff8b38;
+    color: #000;
+    border: 2px solid #ff8b38;
+}
